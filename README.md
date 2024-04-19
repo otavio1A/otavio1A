@@ -1,0 +1,5 @@
+- 👋 Oi, me chamo Otavio 
+- 👀 Tenho 15 anos
+- 🌱 Estou fazendo curso no alura
+- 🙂 Estudo no Colégio Estaual José Siqueira Rosas 
+- 🥇 p5.js
